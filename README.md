@@ -1,0 +1,2 @@
+# Todoist-Clone
+Guided by Karl Hadwen's Todoist Tutorial, I wanted to create a fully-functional productivity app that I, myself, could gain value in. I was extremely fond of the Todoist app, in particular, due to its minimalist and streamlined user-interface, which is what I attempted to replicate. As a completely new programmer, this was my first large-scale project, from which I gained an insight into:  Javascript HTML CSS React (Hooks) Debugging (Jest) Accessibility features Firebase
